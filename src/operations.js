@@ -6,7 +6,7 @@ function getSmallest(a, b) {
     if (a > b) {
         return b;
     } else {
-        return b;
+        return a;
     }
 }
 
