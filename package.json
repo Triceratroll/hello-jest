@@ -1,0 +1,22 @@
+{
+  "name": "hello-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Triceratroll/hello-jest.git"
+  },
+  "author": "Triceratroll",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Triceratroll/hello-jest/issues"
+  },
+  "homepage": "https://github.com/Triceratroll/hello-jest#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
